@@ -11,3 +11,4 @@
 !evidencias/**
 !analisis_electrico.ipynb
 !.gitignore
+!.gitattributes
