@@ -1,0 +1,13 @@
+# Ignorar absolutamente todo por defecto
+*
+
+# Permitir que git explore los directorios (necesario para encontrar los archivos permitidos)
+!*/
+
+# Excepciones (archivos y carpetas que SÍ se subirán al repositorio)
+!data/
+!data/**
+!evidencias/
+!evidencias/**
+!analisis_electrico.ipynb
+!.gitignore
