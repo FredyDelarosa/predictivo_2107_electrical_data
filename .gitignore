@@ -12,3 +12,4 @@
 !analisis_electrico.ipynb
 !.gitignore
 !.gitattributes
+.venv/
